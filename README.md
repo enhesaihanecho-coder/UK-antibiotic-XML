@@ -9,7 +9,7 @@ This project analyzes antibiotic prescribing patterns at the Sub-ICB level in En
 ### Key Questions Addressed:
 - What distinct prescribing patterns exist across UK regions?
 - Which socio-economic and clinical factors drive high antibiotic use?
-- Do these drivers operate differently across regional archetypes?
+- Do these drivers operate differently across regional different patterns?
 
 ## 🔍 Methodology
 
@@ -142,9 +142,8 @@ This analysis demonstrates that:
 
 ## 📈 Future Directions
 
-- Extend to practice-level temporal analysis for real-time monitoring
-- Incorporate budget impact modeling for NHS financial planning
-- Explore transferability to other healthcare systems (e.g., Norwegian FHI registries)
+- Extend to practice-level  analysis for real-time monitoring
+- Explore links to health economic perspectives, such as indicative budget impact or resource utilisation implications, to provide contextual insights relevant for healthcare planning.
 
 ## 📧 Contact
 
