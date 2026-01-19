@@ -76,11 +76,7 @@ At the national level, elderly population dominates. However, cluster-specific a
 
 ```
 .
-├── 01_fetch_antibiotic_usage.ipynb          # API data extraction
-├── 02_engineering_antibiotics_data.ipynb    # Feature engineering
-├── 03_clustering_antibiotics_usage.ipynb    # K-Means clustering & PCA
-├── 04_drivers_data_cleaning_merging.ipynb   # Determinants integration
-├── 05_explainable_ML.ipynb                  # Random Forest + SHAP analysis
+├── UK_antibiotic_drivers.ipynb              # main analysis notebook
 ├── data/
 │   ├── raw/                                 # Source data files
 │   │   ├── antibiotics_raw_data.csv
