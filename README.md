@@ -1,6 +1,6 @@
 # UK Antibiotic Prescribing Patterns: Clustering & Explainable AI Analysis
-
-A data-driven exploration of regional antibiotic prescribing heterogeneity across 106 UK Sub-ICBs, combining unsupervised learning with explainable AI to uncover socio-economic and clinical determinants.
+Study Design
+This is an ecological, cross-sectional analysis using aggregated data from 106 Sub-ICB locations for the year 2024/25. A data-driven exploration of regional antibiotic prescribing heterogeneity across 106 UK Sub-ICBs, combining unsupervised learning with explainable AI to uncover socio-economic and clinical determinants.
 
 ## 📋 Project Overview
 
